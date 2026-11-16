@@ -13,7 +13,7 @@ public class HomeController {
 
         model.addAttribute(
             "message",
-            "Hello! This message comes from Java."
+            "Hello! This message comes from Java. sprimg boot !"
         );
 
         return "home";
